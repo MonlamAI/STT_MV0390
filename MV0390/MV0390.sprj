@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <transcriptionFont />
-  <freeTranslationFont />
+  <transcriptionFont>Monlam Uni OuChan2, 14.25, Regular</transcriptionFont>
+  <freeTranslationFont>Monlam Uni OuChan2, 14.25, Regular</freeTranslationFont>
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
   <Title>MV0390</Title>
   <FundingProjectTitle />
@@ -14,7 +14,7 @@
   <Continent>Unspecified</Continent>
   <ContactPerson />
   <AccessProtocol />
-  <DateAvailable />
+  <DateAvailable>2023-06-25</DateAvailable>
   <RightsHolder />
   <Depositor />
   <IMDIOutputDirectory />
